@@ -83,7 +83,7 @@ namespace crud
             {
                 string sql = "UPDATE POSTRES SET NOMBRE='" + txtNombre.Text +
                     "', PRECIO='" + txtPrecio.Text +
-                    "', " + "STOCK='" + txtStock.Text + "'";
+                    "', " + "STOCK='" + txtStock.Text + "' WHERE id=" + txtId.Text + "";
 
                 SqlConnection con = new SqlConnection(connectionString);
                 SqlCommand cmd = new SqlCommand(sql, con);
