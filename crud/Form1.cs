@@ -27,7 +27,7 @@ namespace crud
             tsbGuardar.Enabled = false;
             tsbCancelar.Enabled = false;
             tsbEliminar.Enabled = false;
-            tstId.Enabled = true;
+            tXtId.Enabled = true;
             tsbBuscar.Enabled = true;
             txtNombre.Enabled = false;
             txtPrecio.Enabled = false;
@@ -57,8 +57,8 @@ namespace crud
         {
             if (nuevo)
             {
-                string sql = "INSERT INTO POSTRES (NOMBRE, PRECIO, STOCK)"
-                          + "VALUES ('" + txtNombre.Text + "', '" + txtPrecio.Text + "', '" + txtStock.Text + "')";
+                string sql = "INSERT INTO POSTRES (ID, NOMBRE, PRECIO, STOCK)"
+                          + "VALUES ('" + txtId.Text + "', '" + txtNombre.Text + "', '" + txtPrecio.Text + "', '" + txtStock.Text + "')";
 
                 SqlConnection con = new SqlConnection(connectionString);
                 SqlCommand cmd = new SqlCommand(sql, con);
