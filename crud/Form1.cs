@@ -27,7 +27,7 @@ namespace crud
             tsbGuardar.Enabled = false;
             tsbCancelar.Enabled = false;
             tsbEliminar.Enabled = false;
-            tXtId.Enabled = true;
+            txtId.Enabled = true;
             tsbBuscar.Enabled = true;
             txtNombre.Enabled = false;
             txtPrecio.Enabled = false;
