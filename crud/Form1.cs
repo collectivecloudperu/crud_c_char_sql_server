@@ -27,10 +27,11 @@ namespace crud
             tsbGuardar.Enabled = false;
             tsbCancelar.Enabled = false;
             tsbEliminar.Enabled = false;
-            txtId.Enabled = true;
+            txtId.Enabled = false;
             tsbBuscar.Enabled = true;
             txtNombre.Enabled = false;
             txtPrecio.Enabled = false;
+            txtStock.Enabled = false;
         }
 
         private void txtId_TextChanged(object sender, EventArgs e)
@@ -44,7 +45,7 @@ namespace crud
             tsbGuardar.Enabled = true;
             tsbCancelar.Enabled = true;
             tsbEliminar.Enabled = false;
-            tstId.Enabled = false;
+            txtId.Enabled = true;
             tsbBuscar.Enabled = false;
             txtNombre.Enabled = true;
             txtPrecio.Enabled = true;
@@ -139,7 +140,7 @@ namespace crud
 
         private void tsbEliminar_Click(object sender, EventArgs e)
         {
-            string sql = "DELETE FROM POSTRES WHERE ID=" + txtId.Text;
+            string sql = "delete from postres where id='" + this.txtId.Text + "';";
 
             SqlConnection con = new SqlConnection(connectionString);
             SqlCommand cmd = new SqlCommand(sql, con);
@@ -231,6 +232,11 @@ namespace crud
         private void btnSalir_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void txtNombre_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

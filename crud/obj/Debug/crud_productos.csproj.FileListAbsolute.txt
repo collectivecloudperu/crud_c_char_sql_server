@@ -1,0 +1,28 @@
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud_productos\crud\bin\Debug\crud.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud_productos\crud\obj\Debug\crud.exe
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud_productos\crud\obj\Debug\crud.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud_productos\crud\obj\Debug\crud_productos.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud_productos\crud\obj\Debug\crud.frmProductos.resources
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud_productos\crud\obj\Debug\crud.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud_productos\crud\obj\Debug\crud_productos.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud_productos\crud\bin\Debug\crud.exe
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud_productos\crud\bin\Debug\crud.pdb
+D:\wamp\www\tutoriales\crud_c_char_sql_server\crud\bin\Debug\crud.exe.config
+D:\wamp\www\tutoriales\crud_c_char_sql_server\crud\obj\Debug\crud.exe
+D:\wamp\www\tutoriales\crud_c_char_sql_server\crud\obj\Debug\crud.pdb
+D:\wamp\www\tutoriales\crud_c_char_sql_server\crud\bin\Debug\crud.exe
+D:\wamp\www\tutoriales\crud_c_char_sql_server\crud\bin\Debug\crud.pdb
+D:\wamp\www\tutoriales\crud_c_char_sql_server\crud\obj\Debug\crud_productos.csprojResolveAssemblyReference.cache
+D:\wamp\www\tutoriales\crud_c_char_sql_server\crud\obj\Debug\crud.frmProductos.resources
+D:\wamp\www\tutoriales\crud_c_char_sql_server\crud\obj\Debug\crud.Properties.Resources.resources
+D:\wamp\www\tutoriales\crud_c_char_sql_server\crud\obj\Debug\crud_productos.csproj.GenerateResource.Cache
+C:\Users\juan\Desktop\crud_c_char_sql_server\crud\bin\Debug\crud.exe.config
+C:\Users\juan\Desktop\crud_c_char_sql_server\crud\bin\Debug\crud.exe
+C:\Users\juan\Desktop\crud_c_char_sql_server\crud\bin\Debug\crud.pdb
+C:\Users\juan\Desktop\crud_c_char_sql_server\crud\obj\Debug\crud_productos.csprojAssemblyReference.cache
+C:\Users\juan\Desktop\crud_c_char_sql_server\crud\obj\Debug\crud.frmProductos.resources
+C:\Users\juan\Desktop\crud_c_char_sql_server\crud\obj\Debug\crud.Properties.Resources.resources
+C:\Users\juan\Desktop\crud_c_char_sql_server\crud\obj\Debug\crud_productos.csproj.GenerateResource.cache
+C:\Users\juan\Desktop\crud_c_char_sql_server\crud\obj\Debug\crud_productos.csproj.CoreCompileInputs.cache
+C:\Users\juan\Desktop\crud_c_char_sql_server\crud\obj\Debug\crud.exe
+C:\Users\juan\Desktop\crud_c_char_sql_server\crud\obj\Debug\crud.pdb

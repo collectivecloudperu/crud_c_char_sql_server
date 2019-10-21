@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud\crud\bin\Debug\crud.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud\crud\bin\Debug\crud.exe
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud\crud\bin\Debug\crud.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud\crud\obj\Debug\crud.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud\crud\obj\Debug\crud.frmCadastroCliente.resources
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud\crud\obj\Debug\crud.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud\crud\obj\Debug\crud.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud\crud\obj\Debug\crud.exe
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud\crud\obj\Debug\crud.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud_clientes\crud\bin\Debug\crud.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud_clientes\crud\obj\Debug\crud.exe
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud_clientes\crud\obj\Debug\crud.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud_productos\crud\bin\Debug\crud.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud_productos\crud\obj\Debug\crud.exe
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\crud_productos\crud\obj\Debug\crud.pdb

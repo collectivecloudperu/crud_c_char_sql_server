@@ -57,12 +57,13 @@
             this.txtNombre.MaxLength = 50;
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(438, 20);
-            this.txtNombre.TabIndex = 1;
+            this.txtNombre.TabIndex = 20;
+            this.txtNombre.TextChanged += new System.EventHandler(this.txtNombre_TextChanged);
             // 
             // lbl_id
             // 
             this.lbl_id.AutoSize = true;
-            this.lbl_id.Location = new System.Drawing.Point(11, 48);
+            this.lbl_id.Location = new System.Drawing.Point(11, 45);
             this.lbl_id.Name = "lbl_id";
             this.lbl_id.Size = new System.Drawing.Size(16, 13);
             this.lbl_id.TabIndex = 2;
@@ -79,12 +80,11 @@
             // 
             // txtId
             // 
-            this.txtId.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtId.Location = new System.Drawing.Point(15, 67);
+            this.txtId.BackColor = System.Drawing.SystemColors.Window;
+            this.txtId.Location = new System.Drawing.Point(15, 64);
             this.txtId.Name = "txtId";
-            this.txtId.ReadOnly = true;
-            this.txtId.Size = new System.Drawing.Size(62, 13);
-            this.txtId.TabIndex = 0;
+            this.txtId.Size = new System.Drawing.Size(62, 20);
+            this.txtId.TabIndex = 19;
             this.txtId.TextChanged += new System.EventHandler(this.txtId_TextChanged);
             // 
             // lbl_precio
